@@ -1,0 +1,41 @@
+{
+  "country": [
+        {
+            "name": "nepal"
+        },
+        {
+            "name": "india"
+        },
+        {
+            "name": "usa"
+        },
+        {
+            "name": "spain"
+        },
+        {
+            "name": "italy"
+        }
+    ],
+  "nepal":{
+    "body": [
+        {
+            "name": "Bagmati"
+        },
+        {
+            "name": "Gandaki"
+        },
+        {
+            "name": "Karnali"
+        },
+        {
+            "name": "SudurPachim"
+        },
+        {
+            "name": "Purbi"
+        }
+    ]
+},
+  "profile": {
+    "name": "typicode"
+  }
+}
