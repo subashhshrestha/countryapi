@@ -35,7 +35,42 @@
         }
     ]
 },
-  "profile": {
-    "name": "typicode"
+  "india": {
+    "body": [
+        {
+            "name": "Jharkhand"
+        },
+        {
+            "name": "Delhi"
+        },
+        {
+            "name": "West Bengal"
+        },
+        {
+            "name": "Uttrakhand"
+        },
+        {
+            "name": "Kerela"
+        }
+    ]
+},
+  "usa": {
+    "body": [
+        {
+            "name": "Washington DC"
+        },
+        {
+            "name": "New York"
+        },
+        {
+            "name": "California"
+        },
+        {
+            "name": "Jagadamba"
+        },
+        {
+            "name": "City"
+        }
+    ]
   }
 }
